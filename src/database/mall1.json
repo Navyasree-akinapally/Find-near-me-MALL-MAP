@@ -1,0 +1,1625 @@
+{
+    "mall_name": "MegaMall",
+    "stores": [
+        {
+            "store_id": 1,
+            "store_name": "Beauty Store 1",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 73,
+                    "y": 80
+                }
+            },
+            "products": [
+                {
+                    "product_id": 1,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 871.34,
+                    "quantity": 167,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 589.63,
+                    "quantity": 132,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 871.11,
+                    "quantity": 125,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 341.64,
+                    "quantity": 61,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 564.27,
+                    "quantity": 32,
+                    "rating": 2.6
+                }
+            ]
+        },
+        {
+            "store_id": 2,
+            "store_name": "Electronics Store 2",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 80,
+                    "y": 33
+                }
+            },
+            "products": [
+                {
+                    "product_id": 6,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 338.23,
+                    "quantity": 73,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 778.74,
+                    "quantity": 166,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 924.22,
+                    "quantity": 103,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 579.55,
+                    "quantity": 22,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 380.37,
+                    "quantity": 115,
+                    "rating": 2.3
+                }
+            ]
+        },
+        {
+            "store_id": 3,
+            "store_name": "Electronics Store 3",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 77,
+                    "y": 92
+                }
+            },
+            "products": [
+                {
+                    "product_id": 11,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 580.37,
+                    "quantity": 53,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 798.35,
+                    "quantity": 125,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 131.59,
+                    "quantity": 99,
+                    "rating": 2.5
+                },
+                {
+                    "product_id": 14,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 384.99,
+                    "quantity": 73,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 306.2,
+                    "quantity": 28,
+                    "rating": 3.5
+                }
+            ]
+        },
+        {
+            "store_id": 4,
+            "store_name": "Accessories Store 4",
+            "store_category": "Accessories",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 62,
+                    "y": 74
+                }
+            },
+            "products": [
+                {
+                    "product_id": 16,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 954.91,
+                    "quantity": 147,
+                    "rating": 1.1
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "Watch",
+                    "product_category": "Accessories",
+                    "price": 159.32,
+                    "quantity": 100,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 18,
+                    "product_name": "Sunglasses",
+                    "product_category": "Accessories",
+                    "price": 287.04,
+                    "quantity": 27,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 19,
+                    "product_name": "Sunglasses",
+                    "product_category": "Accessories",
+                    "price": 379.13,
+                    "quantity": 57,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 20,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 745.06,
+                    "quantity": 199,
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "store_id": 5,
+            "store_name": "Accessories Store 5",
+            "store_category": "Accessories",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 78,
+                    "y": 12
+                }
+            },
+            "products": [
+                {
+                    "product_id": 21,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 75.42,
+                    "quantity": 12,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 22,
+                    "product_name": "Sunglasses",
+                    "product_category": "Accessories",
+                    "price": 566.07,
+                    "quantity": 72,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 23,
+                    "product_name": "Watch",
+                    "product_category": "Accessories",
+                    "price": 336.29,
+                    "quantity": 177,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "Watch",
+                    "product_category": "Accessories",
+                    "price": 946.83,
+                    "quantity": 90,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 25,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 396.15,
+                    "quantity": 68,
+                    "rating": 1.1
+                }
+            ]
+        },
+        {
+            "store_id": 6,
+            "store_name": "Accessories Store 6",
+            "store_category": "Accessories",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 13,
+                    "y": 6
+                }
+            },
+            "products": [
+                {
+                    "product_id": 26,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 205.83,
+                    "quantity": 112,
+                    "rating": 4.6
+                },
+                {
+                    "product_id": 27,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 831.22,
+                    "quantity": 106,
+                    "rating": 2.9
+                },
+                {
+                    "product_id": 28,
+                    "product_name": "Necklace",
+                    "product_category": "Accessories",
+                    "price": 134.62,
+                    "quantity": 38,
+                    "rating": 1.4
+                },
+                {
+                    "product_id": 29,
+                    "product_name": "Belt",
+                    "product_category": "Accessories",
+                    "price": 164.34,
+                    "quantity": 102,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 30,
+                    "product_name": "Wallet",
+                    "product_category": "Accessories",
+                    "price": 386.2,
+                    "quantity": 176,
+                    "rating": 5.0
+                }
+            ]
+        },
+        {
+            "store_id": 7,
+            "store_name": "Beauty Store 7",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 84,
+                    "y": 47
+                }
+            },
+            "products": [
+                {
+                    "product_id": 31,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 733.47,
+                    "quantity": 146,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 32,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 858.79,
+                    "quantity": 71,
+                    "rating": 3.2
+                },
+                {
+                    "product_id": 33,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 572.11,
+                    "quantity": 187,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 34,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 10.31,
+                    "quantity": 172,
+                    "rating": 4.1
+                },
+                {
+                    "product_id": 35,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 43.79,
+                    "quantity": 132,
+                    "rating": 3.5
+                }
+            ]
+        },
+        {
+            "store_id": 8,
+            "store_name": "Shoes Store 8",
+            "store_category": "Shoes",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 5,
+                    "y": 5
+                }
+            },
+            "products": [
+                {
+                    "product_id": 36,
+                    "product_name": "Loafers",
+                    "product_category": "Shoes",
+                    "price": 485.14,
+                    "quantity": 55,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 37,
+                    "product_name": "Sneakers",
+                    "product_category": "Shoes",
+                    "price": 127.4,
+                    "quantity": 157,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 38,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 441.24,
+                    "quantity": 23,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 39,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 902.86,
+                    "quantity": 116,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 40,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 373.34,
+                    "quantity": 78,
+                    "rating": 2.4
+                }
+            ]
+        },
+        {
+            "store_id": 9,
+            "store_name": "Beauty Store 9",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 84,
+                    "y": 3
+                }
+            },
+            "products": [
+                {
+                    "product_id": 41,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 892.21,
+                    "quantity": 110,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 42,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 850.13,
+                    "quantity": 161,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 43,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 279.85,
+                    "quantity": 19,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 44,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 562.56,
+                    "quantity": 62,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 45,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 924.64,
+                    "quantity": 62,
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "store_id": 10,
+            "store_name": "Beauty Store 10",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 10,
+                    "y": 91
+                }
+            },
+            "products": [
+                {
+                    "product_id": 46,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 284.57,
+                    "quantity": 72,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 47,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 930.46,
+                    "quantity": 39,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 48,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 356.2,
+                    "quantity": 59,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 49,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 802.02,
+                    "quantity": 92,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 50,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 574.68,
+                    "quantity": 153,
+                    "rating": 3.8
+                }
+            ]
+        },
+        {
+            "store_id": 11,
+            "store_name": "Shoes Store 11",
+            "store_category": "Shoes",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 38,
+                    "y": 77
+                }
+            },
+            "products": [
+                {
+                    "product_id": 51,
+                    "product_name": "Loafers",
+                    "product_category": "Shoes",
+                    "price": 418.47,
+                    "quantity": 28,
+                    "rating": 3.5
+                },
+                {
+                    "product_id": 52,
+                    "product_name": "Sandals",
+                    "product_category": "Shoes",
+                    "price": 755.88,
+                    "quantity": 82,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 53,
+                    "product_name": "Boots",
+                    "product_category": "Shoes",
+                    "price": 596.29,
+                    "quantity": 133,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 54,
+                    "product_name": "Loafers",
+                    "product_category": "Shoes",
+                    "price": 407.2,
+                    "quantity": 96,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 55,
+                    "product_name": "Boots",
+                    "product_category": "Shoes",
+                    "price": 661.03,
+                    "quantity": 20,
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "store_id": 12,
+            "store_name": "Food & Drinks Store 12",
+            "store_category": "Food & Drinks",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 14,
+                    "y": 53
+                }
+            },
+            "products": [
+                {
+                    "product_id": 56,
+                    "product_name": "Pizza",
+                    "product_category": "Food & Drinks",
+                    "price": 683.23,
+                    "quantity": 33,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 57,
+                    "product_name": "Salad",
+                    "product_category": "Food & Drinks",
+                    "price": 320.16,
+                    "quantity": 128,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 58,
+                    "product_name": "Burger",
+                    "product_category": "Food & Drinks",
+                    "price": 415.41,
+                    "quantity": 64,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 59,
+                    "product_name": "Salad",
+                    "product_category": "Food & Drinks",
+                    "price": 172.49,
+                    "quantity": 80,
+                    "rating": 2.9
+                },
+                {
+                    "product_id": 60,
+                    "product_name": "Salad",
+                    "product_category": "Food & Drinks",
+                    "price": 787.47,
+                    "quantity": 155,
+                    "rating": 1.1
+                }
+            ]
+        },
+        {
+            "store_id": 13,
+            "store_name": "Accessories Store 13",
+            "store_category": "Accessories",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 16,
+                    "y": 98
+                }
+            },
+            "products": [
+                {
+                    "product_id": 61,
+                    "product_name": "Necklace",
+                    "product_category": "Accessories",
+                    "price": 750.07,
+                    "quantity": 24,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 62,
+                    "product_name": "Watch",
+                    "product_category": "Accessories",
+                    "price": 155.09,
+                    "quantity": 199,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 63,
+                    "product_name": "Watch",
+                    "product_category": "Accessories",
+                    "price": 90.74,
+                    "quantity": 106,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 64,
+                    "product_name": "Necklace",
+                    "product_category": "Accessories",
+                    "price": 668.16,
+                    "quantity": 103,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 65,
+                    "product_name": "Wallet",
+                    "product_category": "Accessories",
+                    "price": 741.66,
+                    "quantity": 57,
+                    "rating": 2.7
+                }
+            ]
+        },
+        {
+            "store_id": 14,
+            "store_name": "Shoes Store 14",
+            "store_category": "Shoes",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 61,
+                    "y": 61
+                }
+            },
+            "products": [
+                {
+                    "product_id": 66,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 57.39,
+                    "quantity": 36,
+                    "rating": 4.1
+                },
+                {
+                    "product_id": 67,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 271.52,
+                    "quantity": 63,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 68,
+                    "product_name": "Loafers",
+                    "product_category": "Shoes",
+                    "price": 261.04,
+                    "quantity": 199,
+                    "rating": 3.8
+                },
+                {
+                    "product_id": 69,
+                    "product_name": "Boots",
+                    "product_category": "Shoes",
+                    "price": 190.28,
+                    "quantity": 77,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 70,
+                    "product_name": "Running Shoes",
+                    "product_category": "Shoes",
+                    "price": 481.85,
+                    "quantity": 153,
+                    "rating": 1.3
+                }
+            ]
+        },
+        {
+            "store_id": 15,
+            "store_name": "Electronics Store 15",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 21,
+                    "y": 98
+                }
+            },
+            "products": [
+                {
+                    "product_id": 71,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 15.92,
+                    "quantity": 110,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 72,
+                    "product_name": "Smartphone",
+                    "product_category": "Electronics",
+                    "price": 456.57,
+                    "quantity": 21,
+                    "rating": 2.6
+                },
+                {
+                    "product_id": 73,
+                    "product_name": "Smartphone",
+                    "product_category": "Electronics",
+                    "price": 341.34,
+                    "quantity": 194,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 74,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 626.64,
+                    "quantity": 171,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 75,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 154.79,
+                    "quantity": 131,
+                    "rating": 2.8
+                }
+            ]
+        },
+        {
+            "store_id": 16,
+            "store_name": "Electronics Store 16",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 56,
+                    "y": 82
+                }
+            },
+            "products": [
+                {
+                    "product_id": 76,
+                    "product_name": "Headphones",
+                    "product_category": "Electronics",
+                    "price": 704.89,
+                    "quantity": 179,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 77,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 626.13,
+                    "quantity": 30,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 78,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 325.97,
+                    "quantity": 20,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 79,
+                    "product_name": "Smartphone",
+                    "product_category": "Electronics",
+                    "price": 843.91,
+                    "quantity": 82,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 80,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 957.33,
+                    "quantity": 140,
+                    "rating": 1.9
+                }
+            ]
+        },
+        {
+            "store_id": 17,
+            "store_name": "Beauty Store 17",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 16,
+                    "y": 84
+                }
+            },
+            "products": [
+                {
+                    "product_id": 81,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 53.29,
+                    "quantity": 167,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 82,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 885.6,
+                    "quantity": 47,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 83,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 969.33,
+                    "quantity": 89,
+                    "rating": 2.1
+                },
+                {
+                    "product_id": 84,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 566.36,
+                    "quantity": 146,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 85,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 559.95,
+                    "quantity": 186,
+                    "rating": 3.3
+                }
+            ]
+        },
+        {
+            "store_id": 18,
+            "store_name": "Clothing Store 18",
+            "store_category": "Clothing",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 61,
+                    "y": 62
+                }
+            },
+            "products": [
+                {
+                    "product_id": 86,
+                    "product_name": "T-Shirt",
+                    "product_category": "Clothing",
+                    "price": 876.12,
+                    "quantity": 80,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 87,
+                    "product_name": "Blouse",
+                    "product_category": "Clothing",
+                    "price": 532.29,
+                    "quantity": 99,
+                    "rating": 2.1
+                },
+                {
+                    "product_id": 88,
+                    "product_name": "Sweater",
+                    "product_category": "Clothing",
+                    "price": 981.13,
+                    "quantity": 192,
+                    "rating": 3.2
+                },
+                {
+                    "product_id": 89,
+                    "product_name": "Blouse",
+                    "product_category": "Clothing",
+                    "price": 673.53,
+                    "quantity": 164,
+                    "rating": 2.8
+                },
+                {
+                    "product_id": 90,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 185.54,
+                    "quantity": 111,
+                    "rating": 3.0
+                }
+            ]
+        },
+        {
+            "store_id": 19,
+            "store_name": "Electronics Store 19",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 12,
+                    "y": 16
+                }
+            },
+            "products": [
+                {
+                    "product_id": 91,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 839.34,
+                    "quantity": 115,
+                    "rating": 4.1
+                },
+                {
+                    "product_id": 92,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 873.56,
+                    "quantity": 200,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 93,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 25.57,
+                    "quantity": 48,
+                    "rating": 1.2
+                },
+                {
+                    "product_id": 94,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 863.57,
+                    "quantity": 45,
+                    "rating": 2.8
+                },
+                {
+                    "product_id": 95,
+                    "product_name": "Headphones",
+                    "product_category": "Electronics",
+                    "price": 540.82,
+                    "quantity": 71,
+                    "rating": 2.5
+                }
+            ]
+        },
+        {
+            "store_id": 20,
+            "store_name": "Beauty Store 20",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 66,
+                    "y": 65
+                }
+            },
+            "products": [
+                {
+                    "product_id": 96,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 899.56,
+                    "quantity": 115,
+                    "rating": 1.2
+                },
+                {
+                    "product_id": 97,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 347.23,
+                    "quantity": 150,
+                    "rating": 4.6
+                },
+                {
+                    "product_id": 98,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 118.99,
+                    "quantity": 157,
+                    "rating": 1.0
+                },
+                {
+                    "product_id": 99,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 157.14,
+                    "quantity": 176,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 100,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 352.1,
+                    "quantity": 121,
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "store_id": 21,
+            "store_name": "Electronics Store 21",
+            "store_category": "Electronics",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 51,
+                    "y": 16
+                }
+            },
+            "products": [
+                {
+                    "product_id": 101,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 935.84,
+                    "quantity": 162,
+                    "rating": 2.5
+                },
+                {
+                    "product_id": 102,
+                    "product_name": "Smartphone",
+                    "product_category": "Electronics",
+                    "price": 948.01,
+                    "quantity": 54,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 103,
+                    "product_name": "Smartwatch",
+                    "product_category": "Electronics",
+                    "price": 72.58,
+                    "quantity": 94,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 104,
+                    "product_name": "Tablet",
+                    "product_category": "Electronics",
+                    "price": 598.38,
+                    "quantity": 191,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 105,
+                    "product_name": "Laptop",
+                    "product_category": "Electronics",
+                    "price": 510.28,
+                    "quantity": 100,
+                    "rating": 2.5
+                }
+            ]
+        },
+        {
+            "store_id": 22,
+            "store_name": "Food & Drinks Store 22",
+            "store_category": "Food & Drinks",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 28,
+                    "y": 48
+                }
+            },
+            "products": [
+                {
+                    "product_id": 106,
+                    "product_name": "Smoothie",
+                    "product_category": "Food & Drinks",
+                    "price": 752.51,
+                    "quantity": 10,
+                    "rating": 2.5
+                },
+                {
+                    "product_id": 107,
+                    "product_name": "Smoothie",
+                    "product_category": "Food & Drinks",
+                    "price": 47.32,
+                    "quantity": 197,
+                    "rating": 2.5
+                },
+                {
+                    "product_id": 108,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 634.38,
+                    "quantity": 170,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 109,
+                    "product_name": "Salad",
+                    "product_category": "Food & Drinks",
+                    "price": 278.33,
+                    "quantity": 73,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 110,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 555.91,
+                    "quantity": 26,
+                    "rating": 3.1
+                }
+            ]
+        },
+        {
+            "store_id": 23,
+            "store_name": "Beauty Store 23",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 6,
+                    "y": 33
+                }
+            },
+            "products": [
+                {
+                    "product_id": 111,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 612.99,
+                    "quantity": 75,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 112,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 130.94,
+                    "quantity": 164,
+                    "rating": 4.6
+                },
+                {
+                    "product_id": 113,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 372.0,
+                    "quantity": 46,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 114,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 363.58,
+                    "quantity": 115,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 115,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 489.81,
+                    "quantity": 86,
+                    "rating": 1.7
+                }
+            ]
+        },
+        {
+            "store_id": 24,
+            "store_name": "Clothing Store 24",
+            "store_category": "Clothing",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 30,
+                    "y": 18
+                }
+            },
+            "products": [
+                {
+                    "product_id": 116,
+                    "product_name": "T-Shirt",
+                    "product_category": "Clothing",
+                    "price": 569.58,
+                    "quantity": 149,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 117,
+                    "product_name": "Jacket",
+                    "product_category": "Clothing",
+                    "price": 193.06,
+                    "quantity": 48,
+                    "rating": 2.9
+                },
+                {
+                    "product_id": 118,
+                    "product_name": "Jacket",
+                    "product_category": "Clothing",
+                    "price": 576.84,
+                    "quantity": 26,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 119,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 451.51,
+                    "quantity": 124,
+                    "rating": 4.7
+                },
+                {
+                    "product_id": 120,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 566.76,
+                    "quantity": 57,
+                    "rating": 4.0
+                }
+            ]
+        },
+        {
+            "store_id": 25,
+            "store_name": "Clothing Store 25",
+            "store_category": "Clothing",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 54,
+                    "y": 25
+                }
+            },
+            "products": [
+                {
+                    "product_id": 121,
+                    "product_name": "Skirt",
+                    "product_category": "Clothing",
+                    "price": 944.68,
+                    "quantity": 131,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 122,
+                    "product_name": "Jacket",
+                    "product_category": "Clothing",
+                    "price": 483.59,
+                    "quantity": 139,
+                    "rating": 5.0
+                },
+                {
+                    "product_id": 123,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 584.54,
+                    "quantity": 88,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 124,
+                    "product_name": "Skirt",
+                    "product_category": "Clothing",
+                    "price": 457.14,
+                    "quantity": 104,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 125,
+                    "product_name": "Skirt",
+                    "product_category": "Clothing",
+                    "price": 862.17,
+                    "quantity": 137,
+                    "rating": 1.5
+                }
+            ]
+        },
+        {
+            "store_id": 26,
+            "store_name": "Food & Drinks Store 26",
+            "store_category": "Food & Drinks",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 68,
+                    "y": 15
+                }
+            },
+            "products": [
+                {
+                    "product_id": 126,
+                    "product_name": "Smoothie",
+                    "product_category": "Food & Drinks",
+                    "price": 144.62,
+                    "quantity": 76,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 127,
+                    "product_name": "Burger",
+                    "product_category": "Food & Drinks",
+                    "price": 260.85,
+                    "quantity": 107,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 128,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 83.78,
+                    "quantity": 55,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 129,
+                    "product_name": "Salad",
+                    "product_category": "Food & Drinks",
+                    "price": 629.31,
+                    "quantity": 12,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 130,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 674.75,
+                    "quantity": 165,
+                    "rating": 2.5
+                }
+            ]
+        },
+        {
+            "store_id": 27,
+            "store_name": "Beauty Store 27",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 55,
+                    "y": 23
+                }
+            },
+            "products": [
+                {
+                    "product_id": 131,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 635.1,
+                    "quantity": 107,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 132,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 224.74,
+                    "quantity": 193,
+                    "rating": 3.7
+                },
+                {
+                    "product_id": 133,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 634.57,
+                    "quantity": 56,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 134,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 15.73,
+                    "quantity": 47,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 135,
+                    "product_name": "Moisturizer",
+                    "product_category": "Beauty",
+                    "price": 838.28,
+                    "quantity": 119,
+                    "rating": 3.3
+                }
+            ]
+        },
+        {
+            "store_id": 28,
+            "store_name": "Beauty Store 28",
+            "store_category": "Beauty",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 72,
+                    "y": 58
+                }
+            },
+            "products": [
+                {
+                    "product_id": 136,
+                    "product_name": "Shampoo",
+                    "product_category": "Beauty",
+                    "price": 331.61,
+                    "quantity": 173,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 137,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 118.09,
+                    "quantity": 131,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 138,
+                    "product_name": "Perfume",
+                    "product_category": "Beauty",
+                    "price": 872.59,
+                    "quantity": 60,
+                    "rating": 3.5
+                },
+                {
+                    "product_id": 139,
+                    "product_name": "Lipstick",
+                    "product_category": "Beauty",
+                    "price": 260.99,
+                    "quantity": 153,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 140,
+                    "product_name": "Foundation",
+                    "product_category": "Beauty",
+                    "price": 17.34,
+                    "quantity": 174,
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "store_id": 29,
+            "store_name": "Food & Drinks Store 29",
+            "store_category": "Food & Drinks",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 38,
+                    "y": 49
+                }
+            },
+            "products": [
+                {
+                    "product_id": 141,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 937.05,
+                    "quantity": 104,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 142,
+                    "product_name": "Soda",
+                    "product_category": "Food & Drinks",
+                    "price": 124.87,
+                    "quantity": 78,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 143,
+                    "product_name": "Pizza",
+                    "product_category": "Food & Drinks",
+                    "price": 720.31,
+                    "quantity": 31,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 144,
+                    "product_name": "Burger",
+                    "product_category": "Food & Drinks",
+                    "price": 841.29,
+                    "quantity": 32,
+                    "rating": 4.7
+                },
+                {
+                    "product_id": 145,
+                    "product_name": "Burger",
+                    "product_category": "Food & Drinks",
+                    "price": 697.8,
+                    "quantity": 148,
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "store_id": 30,
+            "store_name": "Clothing Store 30",
+            "store_category": "Clothing",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 42,
+                    "y": 85
+                }
+            },
+            "products": [
+                {
+                    "product_id": 146,
+                    "product_name": "Skirt",
+                    "product_category": "Clothing",
+                    "price": 304.79,
+                    "quantity": 90,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 147,
+                    "product_name": "Blouse",
+                    "product_category": "Clothing",
+                    "price": 92.23,
+                    "quantity": 36,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 148,
+                    "product_name": "Skirt",
+                    "product_category": "Clothing",
+                    "price": 879.26,
+                    "quantity": 169,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 149,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 833.63,
+                    "quantity": 49,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 150,
+                    "product_name": "Jeans",
+                    "product_category": "Clothing",
+                    "price": 652.66,
+                    "quantity": 168,
+                    "rating": 4.5
+                }
+            ]
+        }
+    ]
+}

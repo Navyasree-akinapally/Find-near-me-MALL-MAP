@@ -1,0 +1,1625 @@
+{
+    "mall_name": "MegaMall_7973",
+    "stores": [
+        {
+            "store_id": 1,
+            "store_name": "Jewelry Store 1",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 1,
+                    "y": 90
+                }
+            },
+            "products": [
+                {
+                    "product_id": 1,
+                    "product_name": "Silver Bracelet",
+                    "product_category": "Jewelry",
+                    "price": 900.15,
+                    "quantity": 23,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 598.7,
+                    "quantity": 135,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 321.26,
+                    "quantity": 135,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 645.91,
+                    "quantity": 25,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 893.47,
+                    "quantity": 147,
+                    "rating": 3.1
+                }
+            ]
+        },
+        {
+            "store_id": 2,
+            "store_name": "Books Store 2",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 60,
+                    "y": 52
+                }
+            },
+            "products": [
+                {
+                    "product_id": 6,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 454.36,
+                    "quantity": 180,
+                    "rating": 3.4
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 119.19,
+                    "quantity": 136,
+                    "rating": 2.8
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 312.0,
+                    "quantity": 112,
+                    "rating": 3.5
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 789.52,
+                    "quantity": 85,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 532.27,
+                    "quantity": 181,
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "store_id": 3,
+            "store_name": "Home Decor Store 3",
+            "store_category": "Home Decor",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 6,
+                    "y": 35
+                }
+            },
+            "products": [
+                {
+                    "product_id": 11,
+                    "product_name": "Lamp",
+                    "product_category": "Home Decor",
+                    "price": 673.49,
+                    "quantity": 117,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Lamp",
+                    "product_category": "Home Decor",
+                    "price": 155.89,
+                    "quantity": 150,
+                    "rating": 3.8
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Sofa",
+                    "product_category": "Home Decor",
+                    "price": 324.09,
+                    "quantity": 144,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 14,
+                    "product_name": "Carpet",
+                    "product_category": "Home Decor",
+                    "price": 419.09,
+                    "quantity": 160,
+                    "rating": 4.7
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "Carpet",
+                    "product_category": "Home Decor",
+                    "price": 637.72,
+                    "quantity": 73,
+                    "rating": 3.4
+                }
+            ]
+        },
+        {
+            "store_id": 4,
+            "store_name": "Sports Store 4",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 81,
+                    "y": 11
+                }
+            },
+            "products": [
+                {
+                    "product_id": 16,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 413.08,
+                    "quantity": 42,
+                    "rating": 2.9
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 161.23,
+                    "quantity": 175,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 18,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 574.3,
+                    "quantity": 126,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 19,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 467.2,
+                    "quantity": 76,
+                    "rating": 1.2
+                },
+                {
+                    "product_id": 20,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 444.26,
+                    "quantity": 84,
+                    "rating": 2.2
+                }
+            ]
+        },
+        {
+            "store_id": 5,
+            "store_name": "Books Store 5",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 1,
+                    "y": 60
+                }
+            },
+            "products": [
+                {
+                    "product_id": 21,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 568.65,
+                    "quantity": 198,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 22,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 582.9,
+                    "quantity": 163,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 23,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 18.46,
+                    "quantity": 113,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 137.55,
+                    "quantity": 124,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 25,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 734.3,
+                    "quantity": 12,
+                    "rating": 3.9
+                }
+            ]
+        },
+        {
+            "store_id": 6,
+            "store_name": "Jewelry Store 6",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 35,
+                    "y": 80
+                }
+            },
+            "products": [
+                {
+                    "product_id": 26,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 948.5,
+                    "quantity": 22,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 27,
+                    "product_name": "Gold Necklace",
+                    "product_category": "Jewelry",
+                    "price": 955.24,
+                    "quantity": 20,
+                    "rating": 1.1
+                },
+                {
+                    "product_id": 28,
+                    "product_name": "Gold Necklace",
+                    "product_category": "Jewelry",
+                    "price": 730.67,
+                    "quantity": 14,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 29,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 948.56,
+                    "quantity": 165,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 30,
+                    "product_name": "Silver Bracelet",
+                    "product_category": "Jewelry",
+                    "price": 170.75,
+                    "quantity": 183,
+                    "rating": 2.6
+                }
+            ]
+        },
+        {
+            "store_id": 7,
+            "store_name": "Books Store 7",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 69,
+                    "y": 72
+                }
+            },
+            "products": [
+                {
+                    "product_id": 31,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 297.49,
+                    "quantity": 77,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 32,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 674.88,
+                    "quantity": 64,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 33,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 82.38,
+                    "quantity": 18,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 34,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 579.8,
+                    "quantity": 26,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 35,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 987.99,
+                    "quantity": 55,
+                    "rating": 1.1
+                }
+            ]
+        },
+        {
+            "store_id": 8,
+            "store_name": "Home Decor Store 8",
+            "store_category": "Home Decor",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 76,
+                    "y": 48
+                }
+            },
+            "products": [
+                {
+                    "product_id": 36,
+                    "product_name": "Wall Art",
+                    "product_category": "Home Decor",
+                    "price": 381.52,
+                    "quantity": 52,
+                    "rating": 2.2
+                },
+                {
+                    "product_id": 37,
+                    "product_name": "Lamp",
+                    "product_category": "Home Decor",
+                    "price": 18.52,
+                    "quantity": 90,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 38,
+                    "product_name": "Lamp",
+                    "product_category": "Home Decor",
+                    "price": 852.81,
+                    "quantity": 58,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 39,
+                    "product_name": "Lamp",
+                    "product_category": "Home Decor",
+                    "price": 428.95,
+                    "quantity": 175,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 40,
+                    "product_name": "Carpet",
+                    "product_category": "Home Decor",
+                    "price": 190.49,
+                    "quantity": 171,
+                    "rating": 2.9
+                }
+            ]
+        },
+        {
+            "store_id": 9,
+            "store_name": "Sports Store 9",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 20,
+                    "y": 35
+                }
+            },
+            "products": [
+                {
+                    "product_id": 41,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 740.65,
+                    "quantity": 52,
+                    "rating": 3.8
+                },
+                {
+                    "product_id": 42,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 810.39,
+                    "quantity": 73,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 43,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 199.98,
+                    "quantity": 17,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 44,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 809.32,
+                    "quantity": 96,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 45,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 937.21,
+                    "quantity": 186,
+                    "rating": 2.1
+                }
+            ]
+        },
+        {
+            "store_id": 10,
+            "store_name": "Jewelry Store 10",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 46,
+                    "y": 35
+                }
+            },
+            "products": [
+                {
+                    "product_id": 46,
+                    "product_name": "Silver Bracelet",
+                    "product_category": "Jewelry",
+                    "price": 244.88,
+                    "quantity": 155,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 47,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 463.89,
+                    "quantity": 88,
+                    "rating": 2.0
+                },
+                {
+                    "product_id": 48,
+                    "product_name": "Silver Bracelet",
+                    "product_category": "Jewelry",
+                    "price": 169.44,
+                    "quantity": 83,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 49,
+                    "product_name": "Gold Necklace",
+                    "product_category": "Jewelry",
+                    "price": 816.03,
+                    "quantity": 37,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 50,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 278.84,
+                    "quantity": 27,
+                    "rating": 1.6
+                }
+            ]
+        },
+        {
+            "store_id": 11,
+            "store_name": "Gadgets Store 11",
+            "store_category": "Gadgets",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 79,
+                    "y": 48
+                }
+            },
+            "products": [
+                {
+                    "product_id": 51,
+                    "product_name": "Smartphone",
+                    "product_category": "Gadgets",
+                    "price": 890.54,
+                    "quantity": 195,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 52,
+                    "product_name": "Drone",
+                    "product_category": "Gadgets",
+                    "price": 612.65,
+                    "quantity": 134,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 53,
+                    "product_name": "Smartphone",
+                    "product_category": "Gadgets",
+                    "price": 873.09,
+                    "quantity": 62,
+                    "rating": 2.2
+                },
+                {
+                    "product_id": 54,
+                    "product_name": "Drone",
+                    "product_category": "Gadgets",
+                    "price": 615.23,
+                    "quantity": 18,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 55,
+                    "product_name": "Drone",
+                    "product_category": "Gadgets",
+                    "price": 789.56,
+                    "quantity": 172,
+                    "rating": 2.7
+                }
+            ]
+        },
+        {
+            "store_id": 12,
+            "store_name": "Sports Store 12",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 3,
+                    "y": 99
+                }
+            },
+            "products": [
+                {
+                    "product_id": 56,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 94.11,
+                    "quantity": 149,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 57,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 303.31,
+                    "quantity": 79,
+                    "rating": 2.6
+                },
+                {
+                    "product_id": 58,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 956.03,
+                    "quantity": 191,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 59,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 900.44,
+                    "quantity": 48,
+                    "rating": 1.1
+                },
+                {
+                    "product_id": 60,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 489.85,
+                    "quantity": 48,
+                    "rating": 3.8
+                }
+            ]
+        },
+        {
+            "store_id": 13,
+            "store_name": "Books Store 13",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 73,
+                    "y": 36
+                }
+            },
+            "products": [
+                {
+                    "product_id": 61,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 191.17,
+                    "quantity": 62,
+                    "rating": 3.5
+                },
+                {
+                    "product_id": 62,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 726.0,
+                    "quantity": 187,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 63,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 50.69,
+                    "quantity": 98,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 64,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 789.54,
+                    "quantity": 171,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 65,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 911.58,
+                    "quantity": 151,
+                    "rating": 3.0
+                }
+            ]
+        },
+        {
+            "store_id": 14,
+            "store_name": "Books Store 14",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 51,
+                    "y": 73
+                }
+            },
+            "products": [
+                {
+                    "product_id": 66,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 366.46,
+                    "quantity": 171,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 67,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 214.65,
+                    "quantity": 17,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 68,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 573.24,
+                    "quantity": 192,
+                    "rating": 1.4
+                },
+                {
+                    "product_id": 69,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 363.43,
+                    "quantity": 193,
+                    "rating": 3.4
+                },
+                {
+                    "product_id": 70,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 640.68,
+                    "quantity": 115,
+                    "rating": 4.1
+                }
+            ]
+        },
+        {
+            "store_id": 15,
+            "store_name": "Sports Store 15",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 34,
+                    "y": 3
+                }
+            },
+            "products": [
+                {
+                    "product_id": 71,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 117.71,
+                    "quantity": 25,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 72,
+                    "product_name": "Basketball",
+                    "product_category": "Sports",
+                    "price": 994.37,
+                    "quantity": 41,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 73,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 176.89,
+                    "quantity": 109,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 74,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 13.66,
+                    "quantity": 129,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 75,
+                    "product_name": "Basketball",
+                    "product_category": "Sports",
+                    "price": 708.09,
+                    "quantity": 160,
+                    "rating": 1.9
+                }
+            ]
+        },
+        {
+            "store_id": 16,
+            "store_name": "Jewelry Store 16",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 36,
+                    "y": 49
+                }
+            },
+            "products": [
+                {
+                    "product_id": 76,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 797.94,
+                    "quantity": 98,
+                    "rating": 1.6
+                },
+                {
+                    "product_id": 77,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 529.86,
+                    "quantity": 101,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 78,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 390.23,
+                    "quantity": 118,
+                    "rating": 1.9
+                },
+                {
+                    "product_id": 79,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 886.14,
+                    "quantity": 70,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 80,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 543.64,
+                    "quantity": 193,
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "store_id": 17,
+            "store_name": "Jewelry Store 17",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 2,
+                    "y": 54
+                }
+            },
+            "products": [
+                {
+                    "product_id": 81,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 378.31,
+                    "quantity": 87,
+                    "rating": 4.1
+                },
+                {
+                    "product_id": 82,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 43.58,
+                    "quantity": 55,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 83,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 575.41,
+                    "quantity": 155,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 84,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 648.68,
+                    "quantity": 74,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 85,
+                    "product_name": "Silver Bracelet",
+                    "product_category": "Jewelry",
+                    "price": 705.35,
+                    "quantity": 33,
+                    "rating": 1.9
+                }
+            ]
+        },
+        {
+            "store_id": 18,
+            "store_name": "Home Decor Store 18",
+            "store_category": "Home Decor",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 7,
+                    "y": 80
+                }
+            },
+            "products": [
+                {
+                    "product_id": 86,
+                    "product_name": "Sofa",
+                    "product_category": "Home Decor",
+                    "price": 493.51,
+                    "quantity": 160,
+                    "rating": 5.0
+                },
+                {
+                    "product_id": 87,
+                    "product_name": "Curtains",
+                    "product_category": "Home Decor",
+                    "price": 850.65,
+                    "quantity": 178,
+                    "rating": 3.3
+                },
+                {
+                    "product_id": 88,
+                    "product_name": "Wall Art",
+                    "product_category": "Home Decor",
+                    "price": 468.56,
+                    "quantity": 158,
+                    "rating": 1.2
+                },
+                {
+                    "product_id": 89,
+                    "product_name": "Curtains",
+                    "product_category": "Home Decor",
+                    "price": 418.34,
+                    "quantity": 187,
+                    "rating": 2.1
+                },
+                {
+                    "product_id": 90,
+                    "product_name": "Wall Art",
+                    "product_category": "Home Decor",
+                    "price": 882.86,
+                    "quantity": 104,
+                    "rating": 2.1
+                }
+            ]
+        },
+        {
+            "store_id": 19,
+            "store_name": "Books Store 19",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 70,
+                    "y": 55
+                }
+            },
+            "products": [
+                {
+                    "product_id": 91,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 33.38,
+                    "quantity": 85,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 92,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 716.09,
+                    "quantity": 39,
+                    "rating": 4.5
+                },
+                {
+                    "product_id": 93,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 326.28,
+                    "quantity": 164,
+                    "rating": 2.5
+                },
+                {
+                    "product_id": 94,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 796.61,
+                    "quantity": 86,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 95,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 440.08,
+                    "quantity": 115,
+                    "rating": 2.4
+                }
+            ]
+        },
+        {
+            "store_id": 20,
+            "store_name": "Jewelry Store 20",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 51,
+                    "y": 41
+                }
+            },
+            "products": [
+                {
+                    "product_id": 96,
+                    "product_name": "Gold Necklace",
+                    "product_category": "Jewelry",
+                    "price": 763.7,
+                    "quantity": 133,
+                    "rating": 3.2
+                },
+                {
+                    "product_id": 97,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 296.26,
+                    "quantity": 147,
+                    "rating": 4.7
+                },
+                {
+                    "product_id": 98,
+                    "product_name": "Gold Necklace",
+                    "product_category": "Jewelry",
+                    "price": 192.18,
+                    "quantity": 23,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 99,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 78.82,
+                    "quantity": 178,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 100,
+                    "product_name": "Pearl Earrings",
+                    "product_category": "Jewelry",
+                    "price": 250.66,
+                    "quantity": 63,
+                    "rating": 3.7
+                }
+            ]
+        },
+        {
+            "store_id": 21,
+            "store_name": "Gadgets Store 21",
+            "store_category": "Gadgets",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 94,
+                    "y": 31
+                }
+            },
+            "products": [
+                {
+                    "product_id": 101,
+                    "product_name": "Drone",
+                    "product_category": "Gadgets",
+                    "price": 92.72,
+                    "quantity": 89,
+                    "rating": 4.3
+                },
+                {
+                    "product_id": 102,
+                    "product_name": "Laptop",
+                    "product_category": "Gadgets",
+                    "price": 593.57,
+                    "quantity": 140,
+                    "rating": 2.2
+                },
+                {
+                    "product_id": 103,
+                    "product_name": "Gaming Console",
+                    "product_category": "Gadgets",
+                    "price": 206.56,
+                    "quantity": 130,
+                    "rating": 1.8
+                },
+                {
+                    "product_id": 104,
+                    "product_name": "Laptop",
+                    "product_category": "Gadgets",
+                    "price": 65.23,
+                    "quantity": 178,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 105,
+                    "product_name": "Smart Speaker",
+                    "product_category": "Gadgets",
+                    "price": 542.75,
+                    "quantity": 116,
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "store_id": 22,
+            "store_name": "Fitness Store 22",
+            "store_category": "Fitness",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 51,
+                    "y": 42
+                }
+            },
+            "products": [
+                {
+                    "product_id": 106,
+                    "product_name": "Fitness Tracker",
+                    "product_category": "Fitness",
+                    "price": 11.68,
+                    "quantity": 49,
+                    "rating": 3.8
+                },
+                {
+                    "product_id": 107,
+                    "product_name": "Treadmill",
+                    "product_category": "Fitness",
+                    "price": 302.26,
+                    "quantity": 200,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 108,
+                    "product_name": "Dumbbells",
+                    "product_category": "Fitness",
+                    "price": 362.59,
+                    "quantity": 128,
+                    "rating": 3.0
+                },
+                {
+                    "product_id": 109,
+                    "product_name": "Dumbbells",
+                    "product_category": "Fitness",
+                    "price": 119.17,
+                    "quantity": 35,
+                    "rating": 3.5
+                },
+                {
+                    "product_id": 110,
+                    "product_name": "Yoga Mat",
+                    "product_category": "Fitness",
+                    "price": 699.11,
+                    "quantity": 190,
+                    "rating": 1.2
+                }
+            ]
+        },
+        {
+            "store_id": 23,
+            "store_name": "Sports Store 23",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 6,
+                    "y": 55
+                }
+            },
+            "products": [
+                {
+                    "product_id": 111,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 149.34,
+                    "quantity": 156,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 112,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 671.32,
+                    "quantity": 59,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 113,
+                    "product_name": "Basketball",
+                    "product_category": "Sports",
+                    "price": 401.51,
+                    "quantity": 166,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 114,
+                    "product_name": "Basketball",
+                    "product_category": "Sports",
+                    "price": 853.84,
+                    "quantity": 162,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 115,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 865.57,
+                    "quantity": 97,
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "store_id": 24,
+            "store_name": "Gadgets Store 24",
+            "store_category": "Gadgets",
+            "store_location": {
+                "floor": 5,
+                "coordinates": {
+                    "x": 32,
+                    "y": 45
+                }
+            },
+            "products": [
+                {
+                    "product_id": 116,
+                    "product_name": "Smart Speaker",
+                    "product_category": "Gadgets",
+                    "price": 111.07,
+                    "quantity": 100,
+                    "rating": 3.2
+                },
+                {
+                    "product_id": 117,
+                    "product_name": "Drone",
+                    "product_category": "Gadgets",
+                    "price": 463.6,
+                    "quantity": 197,
+                    "rating": 4.4
+                },
+                {
+                    "product_id": 118,
+                    "product_name": "Smart Speaker",
+                    "product_category": "Gadgets",
+                    "price": 937.57,
+                    "quantity": 132,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 119,
+                    "product_name": "Smartphone",
+                    "product_category": "Gadgets",
+                    "price": 711.15,
+                    "quantity": 155,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 120,
+                    "product_name": "Smartphone",
+                    "product_category": "Gadgets",
+                    "price": 394.7,
+                    "quantity": 80,
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "store_id": 25,
+            "store_name": "Jewelry Store 25",
+            "store_category": "Jewelry",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 64,
+                    "y": 88
+                }
+            },
+            "products": [
+                {
+                    "product_id": 121,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 77.5,
+                    "quantity": 24,
+                    "rating": 4.0
+                },
+                {
+                    "product_id": 122,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 562.49,
+                    "quantity": 111,
+                    "rating": 2.3
+                },
+                {
+                    "product_id": 123,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 311.37,
+                    "quantity": 142,
+                    "rating": 1.1
+                },
+                {
+                    "product_id": 124,
+                    "product_name": "Diamond Ring",
+                    "product_category": "Jewelry",
+                    "price": 97.85,
+                    "quantity": 150,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 125,
+                    "product_name": "Watch",
+                    "product_category": "Jewelry",
+                    "price": 381.85,
+                    "quantity": 26,
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "store_id": 26,
+            "store_name": "Books Store 26",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 97,
+                    "y": 5
+                }
+            },
+            "products": [
+                {
+                    "product_id": 126,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 502.4,
+                    "quantity": 158,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 127,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 111.3,
+                    "quantity": 48,
+                    "rating": 4.6
+                },
+                {
+                    "product_id": 128,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 138.6,
+                    "quantity": 37,
+                    "rating": 1.3
+                },
+                {
+                    "product_id": 129,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 392.95,
+                    "quantity": 97,
+                    "rating": 2.9
+                },
+                {
+                    "product_id": 130,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 17.24,
+                    "quantity": 140,
+                    "rating": 3.7
+                }
+            ]
+        },
+        {
+            "store_id": 27,
+            "store_name": "Sports Store 27",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 2,
+                "coordinates": {
+                    "x": 9,
+                    "y": 23
+                }
+            },
+            "products": [
+                {
+                    "product_id": 131,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 660.72,
+                    "quantity": 101,
+                    "rating": 4.6
+                },
+                {
+                    "product_id": 132,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 397.45,
+                    "quantity": 91,
+                    "rating": 2.4
+                },
+                {
+                    "product_id": 133,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 336.92,
+                    "quantity": 58,
+                    "rating": 3.6
+                },
+                {
+                    "product_id": 134,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 53.94,
+                    "quantity": 112,
+                    "rating": 3.1
+                },
+                {
+                    "product_id": 135,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 476.01,
+                    "quantity": 76,
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "store_id": 28,
+            "store_name": "Books Store 28",
+            "store_category": "Books",
+            "store_location": {
+                "floor": 1,
+                "coordinates": {
+                    "x": 56,
+                    "y": 12
+                }
+            },
+            "products": [
+                {
+                    "product_id": 136,
+                    "product_name": "Fiction Novel",
+                    "product_category": "Books",
+                    "price": 881.45,
+                    "quantity": 97,
+                    "rating": 2.1
+                },
+                {
+                    "product_id": 137,
+                    "product_name": "Non-fiction",
+                    "product_category": "Books",
+                    "price": 700.66,
+                    "quantity": 123,
+                    "rating": 4.9
+                },
+                {
+                    "product_id": 138,
+                    "product_name": "Biography",
+                    "product_category": "Books",
+                    "price": 820.87,
+                    "quantity": 49,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 139,
+                    "product_name": "Science Book",
+                    "product_category": "Books",
+                    "price": 740.43,
+                    "quantity": 145,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 140,
+                    "product_name": "Children's Book",
+                    "product_category": "Books",
+                    "price": 657.15,
+                    "quantity": 15,
+                    "rating": 3.9
+                }
+            ]
+        },
+        {
+            "store_id": 29,
+            "store_name": "Fitness Store 29",
+            "store_category": "Fitness",
+            "store_location": {
+                "floor": 4,
+                "coordinates": {
+                    "x": 19,
+                    "y": 53
+                }
+            },
+            "products": [
+                {
+                    "product_id": 141,
+                    "product_name": "Fitness Tracker",
+                    "product_category": "Fitness",
+                    "price": 360.01,
+                    "quantity": 76,
+                    "rating": 2.7
+                },
+                {
+                    "product_id": 142,
+                    "product_name": "Treadmill",
+                    "product_category": "Fitness",
+                    "price": 270.63,
+                    "quantity": 108,
+                    "rating": 1.7
+                },
+                {
+                    "product_id": 143,
+                    "product_name": "Fitness Tracker",
+                    "product_category": "Fitness",
+                    "price": 364.74,
+                    "quantity": 108,
+                    "rating": 1.5
+                },
+                {
+                    "product_id": 144,
+                    "product_name": "Yoga Mat",
+                    "product_category": "Fitness",
+                    "price": 118.96,
+                    "quantity": 118,
+                    "rating": 2.2
+                },
+                {
+                    "product_id": 145,
+                    "product_name": "Fitness Tracker",
+                    "product_category": "Fitness",
+                    "price": 564.55,
+                    "quantity": 129,
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "store_id": 30,
+            "store_name": "Sports Store 30",
+            "store_category": "Sports",
+            "store_location": {
+                "floor": 3,
+                "coordinates": {
+                    "x": 8,
+                    "y": 44
+                }
+            },
+            "products": [
+                {
+                    "product_id": 146,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 379.53,
+                    "quantity": 187,
+                    "rating": 3.8
+                },
+                {
+                    "product_id": 147,
+                    "product_name": "Gym Gloves",
+                    "product_category": "Sports",
+                    "price": 421.38,
+                    "quantity": 11,
+                    "rating": 4.2
+                },
+                {
+                    "product_id": 148,
+                    "product_name": "Running Shoes",
+                    "product_category": "Sports",
+                    "price": 299.61,
+                    "quantity": 131,
+                    "rating": 4.8
+                },
+                {
+                    "product_id": 149,
+                    "product_name": "Football",
+                    "product_category": "Sports",
+                    "price": 432.05,
+                    "quantity": 113,
+                    "rating": 3.2
+                },
+                {
+                    "product_id": 150,
+                    "product_name": "Tennis Racket",
+                    "product_category": "Sports",
+                    "price": 183.34,
+                    "quantity": 156,
+                    "rating": 3.3
+                }
+            ]
+        }
+    ]
+}
